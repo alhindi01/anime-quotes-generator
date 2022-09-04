@@ -1,3 +1,4 @@
+random anime quotes generator using react.
 https://myanimequotes.netlify.app/
 
 In the project directory, you can run:
